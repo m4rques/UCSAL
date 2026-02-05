@@ -1,6 +1,6 @@
-# 🎓 Minha Jornada em [Nome do Curso]
+# 🎓 Minha Jornada em Engenharia de Software
 
-Bem-vindo(a)! Este repositório reúne todos os meus projetos, anotações, exercícios e trabalhos desenvolvidos durante a minha graduação em **[Nome do Curso]** na **[Nome da Faculdade/Universidade]**.
+Bem-vindo(a)! Este repositório reúne todos os meus projetos, anotações, exercícios e trabalhos desenvolvidos durante a minha graduação em Engenharia de Software na Universidade Catolica de Salvador.
 
 ## 📊 Status do Curso
 ![Progress](https://geps.dev/progress/35?danger=true&label=Progresso)
