@@ -23,7 +23,7 @@ Ferramentas e linguagens que utilizo nos estudos:
 <br>
 
 ## 📫 Contato
-* [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/marques-kauan/))
+* [LinkedIn](https://www.linkedin.com/in/marques-kauan/)
 * [Email](mailto:kauanmarques.jd@hotmail.com)
 
 ---
